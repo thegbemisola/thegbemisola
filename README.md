@@ -4,7 +4,7 @@ Result-driven data analyst with strong analytical skills to interpret and analyz
 Worked on projects leveraging existing tools to effectively analyse data and communicate insights.
 
 * Technical Skills: Python, SQL, PowerBI, Spreadsheets
-* Soft Skills: Communication, Research, Team work, Critical thinking
+* Soft Skills: Communication, Research, Team work, Critical thinking, Report Writing
 
 Currently volunteering as a Moderator at Datatech Space(an online community dedicated to helping data enthusiasts and professionals at different levels).
 
