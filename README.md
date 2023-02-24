@@ -12,4 +12,4 @@ I am very much available for collaborations and data related roles.
 #### 📫 Connect with me 📫
 * [Twitter](https://twitter.com/GbemiAdekoya)
 * [Medium](https://medium.com/@gbemiadekoya)
-* [Linkedin](linkedin.com/in/gbemisolaadekoya)
+* [Linkedin](https://www.linkedin.com/in/gbemisolaadekoya/)
