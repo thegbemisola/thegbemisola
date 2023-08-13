@@ -5,11 +5,11 @@ I am actively refining my Power BI skills to create interactive dashboards that 
 I am very excited to contribute to projects that bridge the gap between healthcare and data analysis.
 
 Skills:
-Programming Languages: Python, SQL
-Data Visualization tool: [Power BI] (https://www.novypro.com/profile_projects/gbemisola-adekoya), MS Excel, Python libraries (Matplotlib, Seaborn, Plotly)
-Data Analysis tools/libraries: MS Excel, Power BI, Pandas, Requests, Statistical analysis
-Other tools: MS Office (Word, PowerPoint), Git, Github
-Soft Skills: Communication, Critical Thinking, Team-work, Research, Report Writing, Presentations, Time 
+* Programming Languages: Python, SQL
+* Data Visualization tool: [Power BI](https://www.novypro.com/profile_projects/gbemisola-adekoya), MS Excel, Python libraries (Matplotlib, Seaborn, Plotly)
+* Data Analysis tools/libraries: MS Excel, Power BI, Pandas, Requests, Statistical analysis
+* Other tools: MS Office (Word, PowerPoint), Git, Github
+* Soft Skills: Communication, Critical Thinking, Team-work, Research, Report Writing, Presentations, Time 
 Management, Adaptability
 
 
