@@ -14,7 +14,7 @@ Management, Adaptability
 
 
 Outside of data, I enjoy..
-* 🥣 Watching cooking videos on youtube
+* 🥣 Watching food vlogs
 * 🎧 Listening to music
 * ✈️ Travel the world: hopefully one day!
 
